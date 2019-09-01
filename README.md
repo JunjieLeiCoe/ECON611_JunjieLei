@@ -2,4 +2,4 @@
 
 ## log
 > 08/23/2019
-Initial handshake; repo craeted.
+Initial handshake; repo created;
