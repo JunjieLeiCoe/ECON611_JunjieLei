@@ -1,6 +1,9 @@
 # EOCN611_JunjieLei Fall 2019
 
 ## log
+>10/05/2019 
+ECON611 **assignment 3** finished & pushed
+
 > 09/28/2019
 ECON611 **assignment 2** finished & pushed
 tried lib matplolib
