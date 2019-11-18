@@ -1,6 +1,9 @@
 # EOCN611_JunjieLei Fall 2019
 
 ## log
+> 11/16
+ECON611 **Assignment4_SQL** finished & pushed
+
 >10/05/2019 
 ECON611 **assignment 3** finished & pushed
 
