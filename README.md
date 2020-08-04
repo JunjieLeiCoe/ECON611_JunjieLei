@@ -21,3 +21,7 @@ CodeAcademy finished
 Initial handshake; repo created;
 
 
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/JunjieLeiCoe/ECON611_JunjieLei.svg)](https://starchart.cc/JunjieLeiCoe/ECON611_JunjieLei)
+      
